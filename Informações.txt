@@ -1,0 +1,3 @@
+Jogo criado por: Matheus Paiva Angarola
+Versão: Beta v1
+Linguagem: Visualg/ Português Estruturado
