@@ -1,3 +1,8 @@
 Jogo criado por: Matheus Paiva Angarola
 Versão: Beta v1
 Linguagem: Visualg/ Português Estruturado
+
+Objetivo: Este projeto foi criado com o objetivo de aprimorar meus conhecimentos
+na Lógica de Programação, inicialmnte ele foi construido em Português Estruturado
+no VisualG, mas pretendo construi-lo em outra linguagens que me permitem fazer 
+mais atualizações.
